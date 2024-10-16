@@ -1,7 +1,5 @@
 # React E-Commerce Zone
 
-![Project Logo](link-to-your-image)  <!-- Optional: Add a logo or image -->
-
 A fully responsive e-commerce platform built with React, featuring a hard-coded product API. The app allows users to browse, search, and filter products with detailed descriptions and pricing.
 
 ## Live Demo
