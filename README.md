@@ -1,4 +1,4 @@
-# React E-Commerce Zone
+# React E-Commerce 
 
 A fully responsive e-commerce platform built with React, featuring a hard-coded product API. The app allows users to browse, search, and filter products with detailed descriptions and pricing.
 
